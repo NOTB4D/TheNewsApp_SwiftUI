@@ -136,7 +136,6 @@
 			isa = PBXGroup;
 			children = (
 				B8C4EB3328A78240007AC731 /* ThNews */,
-				B8BC993228ACE7C30019F9F3 /* NewsDetail */,
 				B8C4EB4428A78241007AC731 /* ThNewsTests */,
 				B8C4EB4E28A78241007AC731 /* ThNewsUITests */,
 				B8C4EB3A28A78241007AC731 /* Preview Content */,
@@ -162,6 +161,7 @@
 				B8C4EB3628A78240007AC731 /* ContentView.swift */,
 				B8C4EB3428A78240007AC731 /* ThNewsApp.swift */,
 				B8C4EB7928A78701007AC731 /* News */,
+				B8BC993228ACE7C30019F9F3 /* NewsDetail */,
 			);
 			path = ThNews;
 			sourceTree = "<group>";

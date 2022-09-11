@@ -42,13 +42,14 @@ struct NewsView: View {
                         NewsCell(item: item)
                     }
                     .padding(.bottom,30)
+                    .listRowSeparator(.hidden)
                     
                     
                 }
                 .listRowBackground(Color.clear)
             }
             
-            
+            .navigationTitle("News")
             
         }
         .onAppear {
